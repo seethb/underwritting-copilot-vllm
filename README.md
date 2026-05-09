@@ -94,7 +94,7 @@ underwritting-copilot-vllm/
 ### Step 1: Create the schema (~30 sec)
 
 ```bash
-export YB_HOST=10.31.16.10        # your YugabyteDB host
+export YB_HOST=10.31.1.10        # your YugabyteDB host
 export YB_PORT=5433
 export YB_USER=yugabyte
 export YB_PASSWORD=xxxxxxxx

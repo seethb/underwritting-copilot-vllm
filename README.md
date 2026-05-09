@@ -1,4 +1,4 @@
-# Underwriting Copilot — Setup Guide
+# Underwriting Copilot - Setup Guide
 
 A multi-product underwriting copilot for Indian lending: home loans and gold loans, both running on the same YugabyteDB schema, the same vLLM instance, and the same Streamlit UI. One architecture, two products, one audit trail.
 

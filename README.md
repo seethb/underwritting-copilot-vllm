@@ -2,7 +2,6 @@
 
 A home-loan underwriting copilot for Indian lending, built on **YugabyteDB** (vector search, customer master, versioned policy, and audit log) and **vLLM** with prefix caching.
 
-**One database. One audit trail. Swappable LLM.**
 
 ---
 

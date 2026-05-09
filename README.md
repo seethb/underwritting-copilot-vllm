@@ -4,8 +4,6 @@ A home-loan underwriting copilot for Indian lending, built on **YugabyteDB** (ve
 
 **One database. One audit trail. Swappable LLM.**
 
-> *Models change every few months. Regulated data shouldn't.*
-
 ---
 
 ## Why this exists
@@ -143,7 +141,7 @@ SANITY CHECKS
 ```bash
 export VLLM_URL=http://<gpu-vm-ip>:30000
 export VLLM_MODEL=Qwen/Qwen2.5-3B-Instruct
-export YB_HOST=10.31.16.10
+export YB_HOST=10.31.1.10
 export YB_PORT=5433
 export YB_USER=yugabyte
 export YB_PASSWORD=xxxxxxxx
